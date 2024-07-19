@@ -61,3 +61,13 @@ body {
 .form-group button:hover {
     background-color: #4cae4c;
 }
+
+.error input {
+    border-color: red;
+}
+
+.error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
